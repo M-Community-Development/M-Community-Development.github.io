@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OpenM Project"
+title: "M Community Development"
 ---
 
 ## :star2: How we're different
