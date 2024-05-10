@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "M Community Development"
+title: "OpenMicrosoft Project - by M Community"
 ---
 
 ## :star2: How we're different
