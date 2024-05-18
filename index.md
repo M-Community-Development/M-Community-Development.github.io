@@ -18,6 +18,8 @@ title: "OpenMicrosoft Project - by M Community"
     - A fast unlocker for Minecraft: Windows 10 Edition that uses memory patching method.
 - **[librosewater](https://github.com/OpenM-Project/librosewater)**
     - A module for memory handling of processes using ctypes.
+- [**MCBEDOC**](https://mcbedoc.openm.tech)
+    - An Ultimate Collection of Minecraft: Bedrock Edition Tools & Unlockers \[with The Story of Unlocking MCBE]
 
 ## :page_with_curl: License
 
